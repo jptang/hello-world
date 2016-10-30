@@ -11,4 +11,4 @@ This is just some stuff to fill in the page.
 This is the best nacho cheese sauce ever!
 
 3rd edit - 
-practic commits.
+practice commits.
